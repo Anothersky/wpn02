@@ -1,4 +1,3 @@
-aaaa
 <?php get_header(); ?>
 
 <!-- [ #pageTitBnr ] -->
